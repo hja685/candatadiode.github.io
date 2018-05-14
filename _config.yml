@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Getting Started CAN Data Diode"
 description: "Please use this website as a guide for how to get started with the CAN bus data diode."
+highlighter: rouge
