@@ -160,7 +160,29 @@ h1{
   color: #fff;
 }
 
+.jumbotronApply {
+  display: flex;
+  align-items: center;
+  background-image: url(https://www.dropbox.com/s/g8gsdyo959m7are/laptop-iphone-computer-macbook-mac-writing-1167610-pxhere.com.jpg?raw=1) !important;
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
+  border-style: solid;
+  border-color: #000;
+}
 
+.jumbotronApply h2 {
+  font-size: 80px;
+  font-weight: 700;
+  margin-top: 30px;
+  color: #fff;
+}
+
+.jumbotronApply h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
 
 /*End of Jumbotrons*/
 
